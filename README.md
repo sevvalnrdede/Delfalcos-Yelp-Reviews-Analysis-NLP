@@ -1,4 +1,4 @@
-# 🍝 DelFalco's Yelp Reviews Analysis (NLP & Sentiment Mining)
+# 🍝 DelFalco's Yelp Reviews Analysis (NLP)
 
 An end-to-end Natural Language Processing (NLP) and Sentiment Analysis project designed to extract actionable business insights from unstructured Yelp customer reviews for **DelFalco's Italian Restaurant**. By filtering textual data and applying custom text-mining pipelines, this project maps customer satisfaction directly to specific menu items to drive data-backed decisions for menu engineering.
 
